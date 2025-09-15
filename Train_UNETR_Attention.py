@@ -67,7 +67,7 @@ os.chdir('/content/drive/My Drive/DLPROJECT/UNETRMODEL')
   --feature_size 16 \
   --workers 2  # Reduced for Colab stability
 
-# Plot Training Loss and Validation Dice
+# Plot the Training Loss and Validation Dice
 # Load TensorBoard logs and plot Training Loss and Validation Dice vs. Epochs
 %load_ext tensorboard
 import matplotlib.pyplot as plt

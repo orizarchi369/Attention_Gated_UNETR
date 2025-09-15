@@ -1,4 +1,4 @@
-#main.py
+# main.py
 # New version, for "improved attention gates"
 
 import argparse
